@@ -40,7 +40,7 @@
                     if ($col % $fila ==0) {
                         echo "*";
                     } else {
-                        echo "_";
+                        echo "-";
                     }
                 echo "</td>";
             }
